@@ -31,7 +31,6 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23BB6BD9.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-%23161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 📚 Libraries
