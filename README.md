@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning **Full-Stack Architecture and Modern Web Development**
 
-- ⚡ I'm passionate about **Frontend Development and Database Design**
+- ⚡ I'm passionate about **Full-Stack Development and Database Design**
 
 - ☁️ I've keen interest in **Cloud Computing and AWS**
 
