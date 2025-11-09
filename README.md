@@ -63,10 +63,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=criskian&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Cristian's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=criskian&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A&cache_seconds=14400&v=1" alt="Cristian's Github Stats" />
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskian&layout=compact&theme=dark&bg_color=0A0A0A" alt="Cristian's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskian&layout=compact&theme=dark&bg_color=0A0A0A&cache_seconds=14400&v=1" alt="Cristian's Top Languages" />
 <br />
 <br />
 <br />
