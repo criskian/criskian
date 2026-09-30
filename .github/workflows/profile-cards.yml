@@ -1,5 +1,5 @@
-# Generates the GitHub stats cards and the contribution snake used in README.md.
-# Cards are rendered inside this repository, so the profile never depends on a
+# Generates the top languages card used in README.md.
+# The card is rendered inside this repository, so the profile never depends on a
 # shared public instance (github-readme-stats.vercel.app is paused / rate limited).
 
 name: Update profile cards
@@ -26,22 +26,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&card_width=460&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&custom_title=GitHub%20Activity
-          path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&card_width=460&theme=default&bg_color=ffffff&title_color=0969da&icon_color=0969da&custom_title=GitHub%20Activity
-          path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -57,15 +41,6 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&card_width=340&exclude_repo=skills-resolve-merge-conflicts,skills-review-pull-requests,skills-introduction-to-github&theme=default&bg_color=ffffff&title_color=0969da&custom_title=Most%20Used%20Languages
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            profile/snake-light.svg?palette=github-light
-            profile/snake-dark.svg?palette=github-dark
 
       - name: Commit updated cards
         run: |

@@ -93,11 +93,6 @@ backends that stay reliable, and data pipelines that turn raw records into somet
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img height="170" alt="Cristian Molina GitHub stats" src="./profile/stats-dark.svg" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
     <img height="170" alt="Cristian Molina most used languages" src="./profile/top-langs-dark.svg" />
@@ -109,14 +104,6 @@ backends that stay reliable, and data pipelines that turn raw records into somet
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=criskian&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
     <img alt="Cristian Molina GitHub streak" src="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
-    <img width="100%" alt="Contribution graph animation" src="./profile/snake-dark.svg" />
   </picture>
 </p>
 
