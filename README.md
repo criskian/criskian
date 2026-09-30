@@ -1,105 +1,113 @@
-# Hi 👋, I'm Cristian Molina
+<!-- Header -->
+<p align="center">
+  <img width="100%" alt="Cristian Molina — Software Engineer · AI · Cloud · Data"
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1f6feb&height=190&section=header&text=Cristian%20Molina&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20Products%20%C2%B7%20Cloud%20%C2%B7%20Data&descSize=17&descAlignY=58&animation=fadeIn" />
+</p>
 
-### Full-Stack Developer focused on AI solutions, Machine Learning, Data, Cloud, and TypeScript
+<p align="center">
+  <a href="https://github.com/criskian">
+    <img alt="Typing summary"
+         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+AI+products+end+to+end;LLM+agents+%C2%B7+Cloud+%C2%B7+Data+%C2%B7+TypeScript" />
+  </a>
+</p>
 
-I'm a Full-Stack Developer based in Cali, Colombia. I build scalable web applications and data-driven solutions with a strong focus on AI-powered products, analytics, cloud deployments, and modern TypeScript ecosystems.
-
-- 🔭 Currently working as a **Full-Stack Web Developer at Almia**
-- 🤖 Building **AI-driven products** and end-to-end web solutions
-- 🧠 Interested in **AI Solutions, Machine Learning, Data Engineering, Analytics, and Cloud**
-- 🛠 Main stack: **TypeScript, Next.js, NestJS, Node.js, PostgreSQL, Prisma**
-- ☁️ Experience with **AWS (ECS, EC2, S3, Amplify, Route 53)** and **Google Cloud / BigQuery**
-- 📊 Hands-on with **Databricks, SQL, data processing, visualization, and basic predictive modeling**
-- 🐍 Working with **Python, pandas, NumPy, Matplotlib, scikit-learn, XGBoost**
-- 🚀 Strong practices in **Git/GitHub, CI/CD, Docker, API design, and database optimization**
-- 🤝 I enjoy building products with strong technical communication, teamwork, and problem-solving
-- 📫 Reach me at **camilomolinav@hotmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/cristian-molina-ai-cloud/**
-- 💻 GitHub: **https://github.com/criskian**
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Runtime
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI, Data & Analytics
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://molinadev.co"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-molinadev.co-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cristian-molina-ai-cloud/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cristian--molina--ai--cloud-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:camilocmolinav@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-camilocmolinav%40hotmail.com-24292f?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <img alt="Location" src="https://img.shields.io/badge/Based_in-Cali%2C_Colombia-24292f?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## 💼 Experience Highlights
+## About me
 
-- Built and maintained scalable web applications at **Almia**
-- Developed an **AI-driven employability bot** using **NestJS** and **Next.js**
-- Integrated **generative AI features** into product workflows
-- Orchestrated cloud deployments using **AWS ECS, EC2, S3, Amplify, and Route 53**
-- Worked on **software architecture, database optimization, API documentation, and Agile delivery**
+I'm a software engineer from Cali, Colombia, who enjoys taking an idea all the way to production:
+designing the architecture, writing the code on both ends, and running it in the cloud.
+Most of what I build today sits where **AI, cloud and data** meet — LLM agents that actually solve a problem,
+backends that stay reliable, and data pipelines that turn raw records into something useful.
 
----
-
-## 📜 Certifications
-
-- **Data Analyst in Databricks** — DataCamp
-- **Intermediate Python** — DataCamp
-- **Google Cloud Data Analytics Certificate** — Google
-- **SQL sobre Databricks** — Lovelytics
+- I like shipping products real people use, and measuring whether they help.
+- I use LLMs where they add value, keeping cost, reliability and observability in check.
+- Currently exploring agentic systems, RAG and distributed data processing with Spark.
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=criskian&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=criskian&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=criskian&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"
-    alt="Cristian Molina top languages"
-  />
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,nestjs,nodejs,fastapi,prisma,postgres,mongodb&perline=10" alt="TypeScript, Python, Next.js, React, NestJS, Node.js, FastAPI, Prisma, PostgreSQL, MongoDB" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,linux,sklearn&perline=10" alt="AWS, Google Cloud, Docker, Kubernetes, Terraform, GitHub Actions, Git, Linux, scikit-learn" />
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=false"
-  alt="Cristian Molina GitHub streak"
-/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_API-1f2937?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-1f2937?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-1f2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/Strands_Agents-1f2937?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Strands Agents" />
+  <img src="https://img.shields.io/badge/Apache_Spark-1f2937?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-1f2937?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
+  <img src="https://img.shields.io/badge/BigQuery-1f2937?style=flat-square&logo=googlebigquery&logoColor=669DF6" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/pandas-1f2937?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+</p>
+
+---
+
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://cio.almia.com.co/">CIO — WhatsApp AI Job Assistant</a></h4>
+      A conversational assistant that helps people with their job search on WhatsApp. 2,400+ users.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NestJS-1f2937?style=flat-square&logo=nestjs&logoColor=E0234E" />
+      <img src="https://img.shields.io/badge/LLMs-1f2937?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-1f2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://www.almia.com.co">Almia — AI Hiring Platform</a></h4>
+      Hiring platform with an AI recruiting agent and a RAG talent pool.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bedrock-1f2937?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/pgvector-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://retail-transactions-lakehouse.streamlit.app/">Retail Transactions Lakehouse</a></h4>
+      Medallion lakehouse with PySpark and Spark MLlib over 1.1M grocery transactions, with a Streamlit dashboard.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PySpark-1f2937?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+      <img src="https://img.shields.io/badge/DuckDB-1f2937?style=flat-square&logo=duckdb&logoColor=FFF000" />
+      <img src="https://img.shields.io/badge/Streamlit-1f2937?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img height="170" alt="Cristian Molina most used languages" src="./profile/top-langs-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=criskian&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
+    <img alt="Cristian Molina GitHub streak" src="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0f3460,100:0d1117&height=110&section=footer" />
+</p>
