@@ -76,19 +76,13 @@ backends that stay reliable, and data pipelines that turn raw records into somet
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4><a href="https://retail-transactions-lakehouse.streamlit.app/">Retail Transactions Lakehouse</a></h4>
       Medallion lakehouse with PySpark and Spark MLlib over 1.1M grocery transactions, with a Streamlit dashboard.
       <br/><br/>
       <img src="https://img.shields.io/badge/PySpark-1f2937?style=flat-square&logo=apachespark&logoColor=E25A1C" />
       <img src="https://img.shields.io/badge/DuckDB-1f2937?style=flat-square&logo=duckdb&logoColor=FFF000" />
       <img src="https://img.shields.io/badge/Streamlit-1f2937?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/criskian/zulay-c-ecommerce">Zulay C — E-commerce</a></h4>
-      Storefront and back office for a footwear and apparel retailer.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6" />
     </td>
   </tr>
 </table>
