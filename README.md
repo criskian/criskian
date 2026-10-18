@@ -36,7 +36,7 @@ backends that stay reliable, and data pipelines that turn raw records into somet
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,nestjs,nodejs,fastapi,prisma,postgres,mongodb&perline=10" alt="TypeScript, Python, Next.js, React, NestJS, Node.js, FastAPI, Prisma, PostgreSQL, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=ts,py,dotnet,nextjs,react,nestjs,nodejs,fastapi,prisma,postgres,mysql,mongodb&perline=12" alt="TypeScript, Python, .NET, Next.js, React, NestJS, Node.js, FastAPI, Prisma, PostgreSQL, MySQL, MongoDB" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,linux,sklearn&perline=10" alt="AWS, Google Cloud, Docker, Kubernetes, Terraform, GitHub Actions, Git, Linux, scikit-learn" />
 </p>
