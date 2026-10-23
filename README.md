@@ -99,14 +99,6 @@ backends that stay reliable, and data pipelines that turn raw records into somet
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=criskian&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
-    <img alt="Cristian Molina GitHub streak" src="https://streak-stats.demolab.com?user=criskian&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  </picture>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0f3460,100:0d1117&height=110&section=footer" />
